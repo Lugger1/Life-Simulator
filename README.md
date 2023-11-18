@@ -33,7 +33,7 @@
 - [ ] Добавить игре онлайн `на далёкое будущее`
 
 # Загрузка/Download
-
+[Ссылка для Windows](https://github.com/Lugger1/Life-Simulator/blob/main/Versions/Life-Simulator-win-0.1.0.rar)
 
 ## Отдельное спасибо важным людям
 Спасибо вам!
